@@ -2,6 +2,20 @@
   "updates": [
     {
       "date": "2022-07-01",
+      "datetime": "1673589495",
+      "filename": "aospa-topaz-alpha-1-hotdogb-20230113.zip",
+      "url": "http://192.168.0.55:3000/attachments/4ee9faa8-02e3-4c1f-a738-8df997556ac9",
+      "id": "b85412f4e3cf0e844cc2aea98719afe939e57f40cb3501658966cac5e045ac50",
+      "size": "1703531919",
+      "build_type": "Alpha",
+      "version_code": "1",
+      "version": "Topaz", 
+      "android_version": "13",
+      "android_spl": "2023-01-05",
+      "changelog_device": "OTA TEST"
+    },
+    {
+      "date": "2022-07-01",
       "datetime": "1656633600",
       "filename": "aospa-sapphire-2-oneplus7t-beta-20220701-image.zip",
       "url": "https://t.me/paranoidaospa/69",
