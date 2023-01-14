@@ -2,6 +2,20 @@
   "updates": [
     {
       "date": "2022-07-01",
+      "datetime": "1673593940",
+      "filename": "aospa-topaz-alpha-1-hotdog-20230114.zip",
+      "url": "http://192.168.0.55:3000/attachments/4193c56b-1db1-458b-a6dd-f3f8c71f74b8",
+      "id": "96007213998de2c59911765f0281a84a60ea6fd6c27b2f4052f923ee82be14a3",
+      "size": "1717837976",
+      "build_type": "Alpha",
+      "version_code": "1",
+      "version": "Topaz", 
+      "android_version": "13",
+      "android_spl": "2023-01-05",
+      "changelog_device": "Update OTA endpoint for local testing"
+    },
+    {
+      "date": "2022-07-01",
       "datetime": "1656633600",
       "filename": "aospa-sapphire-2-oneplus7tpro-beta-20220701-image.zip",
       "url": "https://t.me/paranoidaospa/67",
