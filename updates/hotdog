@@ -1,8 +1,23 @@
 {
   "updates": [
     {
-      "date": "2022-07-01",
+      "date": "2023-01-14",
       "datetime": "1673593940",
+      "filename": "aospa-topaz-alpha-1-hotdog-20230114.zip",
+      "url": "http://192.168.0.55:3000/attachments/46845d2e-62ce-4c71-b671-a4b47f661867",
+      "id": "30af67b9dd7d7366ff7c8666ce88452c583a9f4b83d38e12a387c3b959bb260d",
+      "size": "1717835068",
+      "build_type": "Alpha",
+      "version_code": "1",
+      "version": "Topaz", 
+      "android_version": "13",
+      "android_spl": "2023-01-05",
+      "changelog_device": "Update kernel to fix logspam, upstream some PA repos"
+    },
+
+    {
+      "date": "2022-07-01",
+      "datetime": "1673593930",
       "filename": "aospa-topaz-alpha-1-hotdog-20230114.zip",
       "url": "http://192.168.0.55:3000/attachments/4193c56b-1db1-458b-a6dd-f3f8c71f74b8",
       "id": "96007213998de2c59911765f0281a84a60ea6fd6c27b2f4052f923ee82be14a3",
