@@ -4,9 +4,9 @@
       "date": "2023-01-20",
       "datetime": "1673890052",
       "filename": "aospa-topaz-alpha-1-hotdog-20230120.zip",
-      "url": "http://192.168.0.55:3000/attachments/48024315-7fc6-4191-b113-3cb61949241e",
-      "id": "c219bf7ade47a9c3858bd5960da0d97963cea5f48f8ca9e8a2b18546e7a93c38",
-      "size": "34474357",
+      "url": "http://192.168.0.55:3000/attachments/882bd132-9ced-4939-8454-26b3b9894687",
+      "id": "0302ea2690dbccbd1f048daafcc9a355c30bdd0207abdc0fe334363c1bd35b3a",
+      "size": "1718491105",
       "build_type": "Alpha",
       "version_code": "1",
       "version": "Topaz", 
@@ -14,7 +14,6 @@
       "android_spl": "2023-01-05",
       "changelog_device": "merge PA, delta test, open gerrit changes"
     },
-
     {
       "date": "2023-01-16",
       "datetime": "1673890051",
