@@ -2,17 +2,17 @@
   "updates": [
     {
       "date": "2023-01-20",
-      "datetime": "1673890052",
-      "filename": "aospa-topaz-alpha-1-hotdog-20230120.zip",
-      "url": "http://192.168.0.55:3000/attachments/882bd132-9ced-4939-8454-26b3b9894687",
-      "id": "0302ea2690dbccbd1f048daafcc9a355c30bdd0207abdc0fe334363c1bd35b3a",
-      "size": "1718491105",
-      "build_type": "Alpha",
+      "datetime": "1674941779",
+      "filename": "aospa-topaz-1-oneplus7tpro-20230128.zip",
+      "url": "http://192.168.0.55:3000/attachments/1a84ae3b-bd42-4ab5-8624-d6b228b399ed",
+      "id": "af1ad12c717e5be9bc8b478213b0061ab4280329331b91fea49066f60283a0cd",
+      "size": "1770432573",
+      "build_type": "Release",
       "version_code": "1",
       "version": "Topaz", 
       "android_version": "13",
       "android_spl": "2023-01-05",
-      "changelog_device": "merge PA, delta test, open gerrit changes"
+      "changelog_device": "merge PA, hopefully fix aux cameras"
     },
     {
       "date": "2023-01-16",
