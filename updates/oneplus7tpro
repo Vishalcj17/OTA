@@ -2,17 +2,17 @@
   "updates": [
     {
       "date": "2023-02-08",
-      "datetime": "1675777849",
-      "filename": "aospa-topaz-1-oneplus7tpro-20230128.zip",
-      "url": "http://192.168.0.55:3000/attachments/1a84ae3b-bd42-4ab5-8624-d6b228b399ed",
+      "datetime": "1675747556",
+      "filename": "aospa-topaz-1-oneplus7tpro-20230207.zip",
+      "url": "http://192.168.0.55:3000/attachments/374f1aae-b020-44ef-88a9-9dbaa9518047",
       "id": "af1ad12c717e5be9bc8b478213b0061ab4280329331b91fea49066f60283a0cd",
-      "size": "1770432573",
+      "size": "1771827089",
       "build_type": "Release",
       "version_code": "1",
       "version": "Topaz", 
       "android_version": "13",
-      "android_spl": "2023-01-05",
-      "changelog_device": "merge PA, hopefully fix aux cameras"
+      "android_spl": "2023-02-05",
+      "changelog_device": "lol"
     },
     {
       "date": "2023-01-16",
