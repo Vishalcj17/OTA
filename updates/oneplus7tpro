@@ -1,18 +1,18 @@
 {
   "updates": [
     {
-      "date": "2023-02-13",
-      "datetime": "1676285830",
-      "filename": "aospa-topaz-1-oneplus7tpro-20230213.zip",
-      "url": "http://192.168.0.53:3000/attachments/3af0a016-9e4e-4bd8-bd90-50773e3897e7",
-      "id": "cf90aa41895bae5596a61cbadf32838263a8362ab7f5100cc14721e93d16decc",
-      "size": "1771497084",
+      "date": "2023-02-15",
+      "datetime": "1676285835",
+      "filename": "aospa-topaz-1-oneplus7tpro-20230215.zip",
+      "url": "http://192.168.0.53:3000/attachments/7d2bdb3a-e1ec-4019-bc9c-932dd19c273a",
+      "id": "13c7b00885190575449f16c12cb07446a9c7d951263e1fcc9340f8bbf155d319",
+      "size": "1771496960",
       "build_type": "Release",
       "version_code": "1",
       "version": "Topaz", 
       "android_version": "13",
       "android_spl": "2023-02-05",
-      "changelog_device": "lol"
+      "changelog_device": "fix 4k60"
     },
   ]
 }
