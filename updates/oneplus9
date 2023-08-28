@@ -1,18 +1,18 @@
 {
   "updates": [
     {
-      "date": "2023-08-17",
+      "date": "2023-08-28",
       "datetime": "1691914908",
       "filename": "aospa_oneplus9-ota-eng.vishal.zip",
-      "url": "https://github.com/Vishalcj17/OTA/releases/download/release-4/aospa_oneplus9-ota-eng.vishal.zip",
-      "id": "69abc3185a1ff0c1df9481420b70497a4cd5858a83a83830e568c6085277e90e",
-      "size": "2082577333",
+      "url": "https://github.com/Vishalcj17/OTA/releases/download/release-5/aospa_oneplus9-ota-eng.vishal.zip",
+      "id": "2af3b777e871f4c348361feaeb3e94ab469bd6898d04855440fa84b79f2d5960",
+      "size": "2082516128",
       "build_type": "Release",
-      "version_code": "4",
+      "version_code": "5",
       "version": "Topaz", 
       "android_version": "13",
       "android_spl": "2023-08-05",
-      "changelog_device": "Bring back OPLUS Camera"
+      "changelog_device": "HBM Updates"
     },
   ]
 }
